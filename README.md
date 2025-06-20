@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there :smirk:
 
 
 Me chamo Eden Silva, estudante de programação em transição de carreira. 
