@@ -11,3 +11,5 @@ I am starting my studies <img src="https://img.shields.io/badge/JavaScript-F7DF1
 
 [![Eden stats](https://github-readme-stats.vercel.app/api?username=eden-silva)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
